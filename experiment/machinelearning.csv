@@ -1,0 +1,3 @@
+question,options,answer
+What is machine learning?,"['A programming language', 'A type of algorithm', 'A hardware device', 'A web framework']",A type of algorithm
+Which of the following is a supervised learning algorithm?,"['K-means', 'Decision Trees', 'PCA', 'DBSCAN']",Decision Trees
